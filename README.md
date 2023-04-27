@@ -1,5 +1,6 @@
 # MachineLearning
-![machineLearning3](https://user-images.githubusercontent.com/123563634/221392950-cd6fbd59-78aa-4782-b754-41d901bac539.png)
+
+![ml-e1610553826718](https://user-images.githubusercontent.com/123563634/234842674-d7a4ea75-76dc-4231-a8ea-fe5b593105a7.jpg)
 
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect.
 
@@ -11,24 +12,40 @@ A Machine Learning system learns from historical data, builds the prediction mod
 
 At a broad level, machine learning can be classified into three types:
 
-**Supervised learning**
+- **Supervised learning**
 
-**Unsupervised learning**
+- **Unsupervised learning**
 
-**Reinforcement learning**
+- **Reinforcement learning**
 
-👉 Supervised learning can be grouped further in two categories of algorithms:
+👉**Why Should We Learn Machine Learning?**
 
-**Classification**
+Machine learning is a powerful tool that can be used to solve a wide range of problems. It allows computers to learn from data, without being explicitly programmed. This makes it possible to build systems that can automatically improve their performance over time by learning from their experiences.
 
-**Regression**
+**There are many reasons why learning machine learning is important:**
 
-👉 In unsupervised learning, we don't have a predetermined result. The machine tries to find useful insights from the huge amount of data. It can be further classifieds into two categories of algorithms:
+- Machine learning is widely used in many industries, including healthcare, finance, and e-commerce. By learning machine learning, you can open up a wide range of career opportunities in these fields.
 
-**Clustering**
+- Machine learning can be used to build intelligent systems that can make decisions and predictions based on data. This can help organizations make better decisions, improve their operations, and create new products and services.
 
-**Association**
+- Machine learning is an important tool for data analysis and visualization. It allows you to extract insights and patterns from large datasets, which can be used to understand complex systems and make informed decisions.
 
-👉 **Reinforcement Learning**
+- Machine learning is a rapidly growing field with many exciting developments and research opportunities. By learning machine learning, you can stay up-to-date with the latest research and developments in the field.
 
-Reinforcement learning is a feedback-based learning method, in which a learning agent gets a reward for each right action and gets a penalty for each wrong action
+👉 Supervised learning is a class of problems that uses a model to learn the mapping between the input and target variables.
+
+**Supervised learning can be grouped further in two categories of algorithms:**
+
+- **Classification**
+
+- **Regression**
+
+👉 In an Unsupervised learning problem the model tries to learn by itself and recognize patterns and extract the relationships among the data.
+
+**Unsupervised learning can be grouped further in two categories of algorithms:**
+
+- **Clustering**
+
+- **Association**
+
+👉 Reinforcement learning is a feedback-based learning method, in which a learning agent gets a reward for each right action and gets a penalty for each wrong action.
