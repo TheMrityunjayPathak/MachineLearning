@@ -34,28 +34,42 @@ At a broad level, machine learning can be classified into three types:
 
 🎯 **There are many reasons why learning machine learning is Important:**
 
-- Machine learning is widely used in many industries, including healthcare, finance, and e-commerce. By learning machine learning, you can open up a wide range of career opportunities in these fields.
+- Machine learning is widely used in many industries, including healthcare, finance, and e-commerce. 
 
-- Machine learning can be used to build intelligent systems that can make decisions and predictions based on data. This can help organizations make better decisions, improve their operations, and create new products and services.
+- By learning machine learning, you can open up a wide range of career opportunities in these fields.
 
-- Machine learning is an important tool for data analysis and visualization. It allows you to extract insights and patterns from large datasets, which can be used to understand complex systems and make informed decisions.
+- Machine learning can be used to build intelligent systems that can make decisions and predictions based on data. 
 
-- Machine learning is a rapidly growing field with many exciting developments and research opportunities. By learning machine learning, you can stay up-to-date with the latest research and developments in the field.
+- This can help organizations make better decisions, improve their operations, and create new products and services.
+
+- Machine learning is an important tool for data analysis and visualization. 
+
+- It allows you to extract insights and patterns from large datasets, which can be used to understand complex systems and make informed decisions.
+
+- Machine learning is a rapidly growing field with many exciting developments and research opportunities. 
+
+- By learning machine learning, you can stay up-to-date with the latest research and developments in the field.
+
+1️⃣ **Supervised Learning**
 
 🔹 Supervised learning is a class of problems that uses a model to learn the mapping between the input and target variables.
 
-**Supervised learning can be grouped further in two categories of algorithms:**
+**Supervised Learning can be grouped further in two categories of Algorithms :**
 
 - **Classification**
 
 - **Regression**
 
+2️⃣ **Unsupervised Learning**
+
 🔹 In an Unsupervised learning problem the model tries to learn by itself and recognize patterns and extract the relationships among the data.
 
-**Unsupervised learning can be grouped further in two categories of algorithms:**
+**Unsupervised Learning can be grouped further in two categories of Algorithms :**
 
 - **Clustering**
 
 - **Association**
+
+3️⃣ **Reinforcement Learning**
 
 🔹 Reinforcement learning is a feedback-based learning method, in which a learning agent gets a reward for each right action and gets a penalty for each wrong action.
