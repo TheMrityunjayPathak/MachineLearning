@@ -11,8 +11,11 @@
 3. [Usage](#usage)
 4. [Contributing](#contributing)
 5. [License](#license)
+6. [What!](#what)
 
 ## Introduction
+
+## What
 
 Data science is a rapidly growing field that encompasses various techniques and algorithms for extracting insights and making predictions from data. This repository aims to provide a comprehensive collection of Jupyter Notebook files that illustrate the implementation of different machine learning algorithms.
 
