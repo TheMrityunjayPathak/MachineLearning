@@ -1,4 +1,4 @@
-# Machine Learning
+## Machine Learning
 
 - This repository contains Jupyter Notebook files that demonstrate various machine learning algorithms and techniques. 
 
