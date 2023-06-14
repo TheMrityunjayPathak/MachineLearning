@@ -16,8 +16,8 @@
 
 Data science is a rapidly growing field that encompasses various techniques and algorithms for extracting insights and making predictions from data. This repository aims to provide a comprehensive collection of Jupyter Notebook files that illustrate the implementation of different machine learning algorithms.
 
-Each notebook is designed to be self-contained and focuses on a specific algorithm. It includes step-by-step explanations and code examples to facilitate understanding and implementation. Whether you are a beginner or an experienced data scientist, these notebooks can serve as valuable resources for exploring and experimenting with machine learning algorithms.
-
+Each notebook is designed to be self-contained and focuses on a specific algorithm. It includes step-by-step explanations and code examples to facilitate understanding and implementation.
+  
 ## Algorithms
 
 The repository currently includes the following Machine Learning algorithms :
