@@ -1,4 +1,4 @@
-# Machine Learning Repository
+# Machine Learning
 
 - This repository contains Jupyter Notebook files that demonstrate various machine learning algorithms and techniques. 
 
@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Algorithms](#algorithms)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
+- [Introduction](#introduction)
+- [Algorithms](#algorithms)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
@@ -53,11 +53,11 @@ Feel free to modify the Notebooks, experiment with different Datasets, and adapt
 
 Contributions to this repository are Welcome! If you would like to add a new Algorithm or improve the existing notebooks, please follow these steps :
 
-1. Fork the Repository.
-2. Create a new branch for your Contribution.
-3. Make your changes and enhancements.
-4. Test the notebooks and ensure they run successfully.
-5. Submit a pull request explaining the changes you have made.
+- Fork the Repository.
+- Create a new branch for your Contribution.
+- Make your changes and enhancements.
+- Test the notebooks and ensure they run successfully.
+- Submit a pull request explaining the changes you have made.
 
 Your contributions will be reviewed, and upon approval, they will be merged into the main repository.
 
