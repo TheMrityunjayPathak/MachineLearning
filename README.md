@@ -25,7 +25,7 @@ The repository currently includes the following Machine Learning algorithms :
 1. Linear Regression
 2. Logistic Regression
 3. Decision Trees
-4. Random Forests
+4. Random Forest
 5. Support Vector Machines (SVM)
 6. K-Nearest Neighbors (KNN)
 7. K-Means Clustering 
