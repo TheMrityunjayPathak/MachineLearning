@@ -64,3 +64,6 @@ Your contributions will be reviewed, and upon approval, they will be merged into
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository for personal and commercial purposes.
+
+| [Scroll to Top ⬆️](#machine-learning) |
+|:---:|
