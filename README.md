@@ -42,7 +42,7 @@ Each Algorithm has its dedicated Jupyter Notebook file that provides an overview
 To use the Notebooks in this Repository, you need to have Jupyter Notebook installed on your local machine. You can clone this repository using the following command:
 
 ```
-git clone https://github.com/your-username/MachineLearning.git
+git clone https://github.com/TheMrityunjayPathak/MachineLearning.git
 ```
 
 Once cloned, navigate to the specific Algorithm's Notebook and open it using Jupyter Notebook. Run the code cells sequentially to understand the algorithm's implementation and observe the outputs.
